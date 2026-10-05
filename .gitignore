@@ -1,0 +1,7 @@
+.venv/
+.vscode/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+data/churn.db
